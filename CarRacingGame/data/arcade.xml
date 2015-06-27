@@ -1,0 +1,22 @@
+<arcade>
+	<player>
+		<up>w</up>
+		<down>s</down>
+		<left>a</left>
+		<right>d</right>
+		<start>q</start>
+		<insertcoin>1</insertcoin>
+		<button1>e</button1>
+		<button2>r</button2>
+	</player>
+	<player>
+		<up>i</up>
+		<down>k</down>
+		<left>j</left>
+		<right>l</right>
+		<start>u</start>
+		<insertcoin>9</insertcoin>
+		<button1>o</button1>
+		<button2>p</button2>
+	</player>
+</arcade>	
